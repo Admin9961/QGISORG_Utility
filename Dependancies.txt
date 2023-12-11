@@ -1,0 +1,3 @@
+Get Python and type in your terminal:
+
+pip install requests tqdm
